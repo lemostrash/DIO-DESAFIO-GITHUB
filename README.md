@@ -1,3 +1,4 @@
-## DIO-DESAFIO-GITHUB 🚀
+## DIO DESAFIO GITHUB 🚀
 
-### Projeto DIO
+### Projeto DIO bb
+![Alt ou título da imagem](https://image.api.playstation.com/trophy/np/NPWR16225_00_006906B876F2390DAAF9A6AA80D6761A6F43F4F2E5/5A04F194DCD83162DABF869668414796E7DAEF0C.PNG)
