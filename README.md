@@ -2,4 +2,4 @@
 Repositório criado para Desafio de Projeto.
 
 ##### Projeto DIO parceiro
-![Alt ou título da imagem](https://i.imgur.com/czd8KKE.png)
+![Alt ou título da imagem](https://i.imgur.com/gyYe4Uh.png)
